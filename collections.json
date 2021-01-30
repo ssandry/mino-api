@@ -1,0 +1,122 @@
+[
+    {
+        "id": "0",
+        "titleENG": "VOILE BLANCHE",
+        "titleJPN": "ホワイトベール",
+        "by": "Nana Kamatsu & Gucci",
+        "release": "01. 06. 22",
+        "year": "2020",
+        "coverImg": "/data/voile.jpg",
+        "collage": "/data/voilecol.png",
+        "about": "The new Voile Blanche collection tells of an endless journey to discover details and materials, for sneakers that become a lesson in style.",
+        "preAbout": "The New collection S - J 2022",
+        "team": [
+            {
+                "prof": "Creative Direction",
+                "name": "Antiola"
+            },
+            {
+                "prof": "Photographer",
+                "name": "Daria Taranova"
+            },
+            {
+                "prof": "Art Director",
+                "name": "Ricardo Mirroni"
+            },
+            {
+                "prof": "Graphic Design",
+                "name": "Layout @Antitelico"
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "titleENG": "ENDLESS",
+        "titleJPN": "ホワイトベ",
+        "by": "Nana Kamatsu & Versache",
+        "release": "03. 02. 21",
+        "year": "2021",
+        "coverImg": "/data/endless.jpg",
+        "collage": "/data/voilecol.png",
+        "about": "The new Voile Blanche collection tells of an endless journey to discover details and materials, for sneakers that become a lesson in style.",
+        "preAbout": "The New collection F - S 2021",
+        "team": [
+            {
+                "prof": "Creative Direction",
+                "name": "Antiola"
+            },
+            {
+                "prof": "Photographer",
+                "name": "Daria Taranova"
+            },
+            {
+                "prof": "Art Director",
+                "name": "Ricardo Mirroni"
+            },
+            {
+                "prof": "Graphic Design",
+                "name": "Layout @Antitelico"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "titleENG": "LOWLY",
+        "titleJPN": "サイレントラブ",
+        "by": "Nana Kamatsu & Versache",
+        "release": "03. 02. 21",
+        "year": "2021",
+        "coverImg": "/data/lowly.jpg",
+        "collage": "/data/voilecol.png",
+        "about": "The new Voile Blanche collection tells of an endless journey to discover details and materials, for sneakers that become a lesson in style.",
+        "preAbout": "The New collection F - S 2021",
+        "team": [
+            {
+                "prof": "Creative Direction",
+                "name": "Antiola"
+            },
+            {
+                "prof": "Photographer",
+                "name": "Daria Taranova"
+            },
+            {
+                "prof": "Art Director",
+                "name": "Ricardo Mirroni"
+            },
+            {
+                "prof": "Graphic Design",
+                "name": "Layout @Antitelico"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "titleENG": "YOURSELF",
+        "titleJPN": "サイレント",
+        "by": "Nana Kamatsu & Versache",
+        "release": "03. 02. 21",
+        "year": "2021",
+        "coverImg": "/data/yourself.jpg",
+        "collage": "/data/voilecol.png",
+        "about": "The new Voile Blanche collection tells of an endless journey to discover details and materials, for sneakers that become a lesson in style.",
+        "preAbout": "The New collection F - S 2021",
+        "team": [
+            {
+                "prof": "Creative Direction",
+                "name": "Antiola"
+            },
+            {
+                "prof": "Photographer",
+                "name": "Daria Taranova"
+            },
+            {
+                "prof": "Art Director",
+                "name": "Ricardo Mirroni"
+            },
+            {
+                "prof": "Graphic Design",
+                "name": "Layout @Antitelico"
+            }
+        ]
+    }
+]
