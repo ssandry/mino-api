@@ -1,12 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>mino-api</title>
-</head>
-<body>
-    <h1>Documentation</h1>
-    <h3><a href = "https://flask-russian-docs.readthedocs.io/ru/latest/quickstart.html">RUS</a></h3>
-    <h3><a href = "https://flask.palletsprojects.com/en/1.1.x/">ENG</a></h3>
-</body>
-</html>
+{% extends 'template.html' %}
+
+{% block body %}
+    <h1>Paths</h1>
+    <ul>
+        <li><a href = "/mino-api/get-collections">/mino-api/v.1.0/get-collections/</a></li>
+        <li><a href = "/mino-api/v.1.0/get-collections/1">/mino-api/v.1.0/get-collections/${INT:ID}</a></li>
+    </ul>
+{% endblock body %}
+
