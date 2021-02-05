@@ -3,28 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <title>MINO-api</title>
-    <style>
-    
-        .wrapper {
-            box-sizing: border-box;
-            padding-left: 100px;
-            padding-top: 40px;
-        }
-
-        * {
-            margin: 0;
-            padding: 0;
-
-            font: sans-serif;
-        }
-
-        li {
-            margin-top: 10px;
-        }
-    </style>
+    <link rel="stylesheet" href="{{ url_for('static', filename='/main.css') }}">
 </head>
 <body>
     <div class = "wrapper">
+        <header>
+            <h2 class="logo">MINO-api v. 01. 5</h2>
+            <nav></nav>
+        </header>
         {% block body %}{% endblock body %}
     </div>
 </body>
