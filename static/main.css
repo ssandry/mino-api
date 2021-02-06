@@ -156,7 +156,6 @@ section.controll-grid .card .wr button {
 
     background: linear-gradient(100.28deg, #0F6F00 14.35%, #094400 85.65%);
     border-radius: 4px;
-    margin-top: 18px;
 
     border: none;
 }
@@ -186,4 +185,21 @@ section.controll-grid .card .wr .date {
     line-height: 16px;
 
     color: #585858;
+}
+
+section.controll-grid .card .wr .form {
+    display: flex;
+    height: 29px;
+    margin-top: 18px;
+}
+
+section.controll-grid .card .wr .form input {
+    border: none;
+    box-sizing: border-box;
+    padding-left: 10px;
+    border-radius: 4px;
+}
+
+section.controll-grid .card .wr .form button {
+    margin-left: 10px;
 }
