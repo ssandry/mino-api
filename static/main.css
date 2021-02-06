@@ -198,6 +198,7 @@ section.controll-grid .card .wr .form input {
     box-sizing: border-box;
     padding-left: 10px;
     border-radius: 4px;
+    background-color: #E5E5E5;
 }
 
 section.controll-grid .card .wr .form button {
