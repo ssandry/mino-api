@@ -158,6 +158,13 @@ section.controll-grid .card .wr button {
     border-radius: 4px;
 
     border: none;
+
+    transition-duration: .25s;
+    transition-delay: .05s;
+}
+
+section.controll-grid .card .wr button:hover {
+    transform: scale(1.05);
 }
 
 section.controll-grid .card .wr button a {
