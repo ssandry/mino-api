@@ -5,7 +5,7 @@ import json
 app = Flask(__name__)
 
 
-with open("./collections.json", encoding="utf-8") as json_data_res:
+with open("./data/collections.json", encoding="utf-8") as json_data_res:
     collections = json.load(json_data_res)
 
 
