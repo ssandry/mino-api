@@ -25,3 +25,9 @@ $cd mino-api
 ```sh
 $python3 app.py
 ```
+
+# Useful documentation
+
+- **https://flask.palletsprojects.com/en/1.1.x/**
+- **https://habr.com/ru/post/346306/**
+- **https://pythonru.com/uroki/7-osnovy-shablonizatora-jinja**
