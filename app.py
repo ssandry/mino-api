@@ -2,13 +2,16 @@ from flask import Flask, jsonify, render_template, url_for
 import json
 
 
+# Init app
 app = Flask(__name__)
 
 
+# Init data
 with open("./data/collections.json", encoding="utf-8") as json_data_res:
     collections = json.load(json_data_res)
 
 
+# Routing
 @app.route("/", methods=["GET"])
 @app.route("/index-api", methods=["GET"])
 @app.route("/mino-api", methods=["GET"])
@@ -30,5 +33,6 @@ def get_collection(collection_id):
     return collections[collection_id]
 
 
+# Run app
 if __name__ == "__main__": 
     app.run(debug=False)
