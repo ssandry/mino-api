@@ -4,8 +4,8 @@
         "titleENG": "VOILE BLANCHE",
         "titleJPN": "ホワイトベール",
         "by": "Nana Kamatsu & Gucci",
-        "release": "01. 06. 22",
-        "year": "2020",
+        "release": "01. 06. 21",
+        "year": "2021",
         "coverImg": "/data/voile.jpg",
         "collage": "/data/voilecol.png",
         "about": "The new Voile Blanche collection tells of an endless journey to discover details and materials, for sneakers that become a lesson in style.",
@@ -38,7 +38,7 @@
         "year": "2021",
         "coverImg": "/data/endless.jpg",
         "collage": "/data/endlesscol.png",
-        "about": "The new Voile Blanche collection tells of an endless journey to discover details and materials, for sneakers that become a lesson in style.",
+        "about": "The new ENDLESS (The 1975) collection of an endless time journey to firefall stylizer and materials, for sneakers that become a lesson in mine.",
         "preAbout": "The New collection F - S 2021",
         "team": [
             {
@@ -56,6 +56,10 @@
             {
                 "prof": "Graphic Design",
                 "name": "Layout @Antitelico"
+            },
+            {
+                "prof": "Main Designer",
+                "name": "Layout @Antitelico"
             }
         ]
     },
@@ -64,11 +68,11 @@
         "titleENG": "LOWLY",
         "titleJPN": "サイレントラブ",
         "by": "Nana Kamatsu & Versache",
-        "release": "03. 02. 21",
-        "year": "2021",
+        "release": "03. 02. 22",
+        "year": "2022",
         "coverImg": "/data/lowly.jpg",
         "collage": "/data/lowlycol.png",
-        "about": "The new Voile Blanche collection tells of an endless journey to discover details and materials, for sneakers that become a lesson in style.",
+        "about": "The new LOWLY (Love lie) (The 1975) tells of an endless journey to discover details materials, for mine that become a less in style.",
         "preAbout": "The New collection F - S 2021",
         "team": [
             {
@@ -76,8 +80,8 @@
                 "name": "Antiola"
             },
             {
-                "prof": "Photographer",
-                "name": "Daria Taranova"
+                "prof": "Model",
+                "name": "Marina Famina"
             },
             {
                 "prof": "Art Director",
@@ -94,12 +98,12 @@
         "titleENG": "YOURSELF",
         "titleJPN": "サイレント",
         "by": "Nana Kamatsu & Versache",
-        "release": "03. 02. 21",
-        "year": "2021",
+        "release": "03. 02. 22",
+        "year": "2022",
         "coverImg": "/data/yourself.jpg",
         "collage": "/data/voilecol.png",
-        "about": "The new Voile Blanche collection tells of an endless journey to discover details and materials, for sneakers that become a lesson in style.",
-        "preAbout": "The New collection F - S 2021",
+        "about": "YOURSELF data of 2022 collection tells of an endless journey to discover details and materials, for sneakers that become a lesson in style.",
+        "preAbout": "The New collection F - S 2022",
         "team": [
             {
                 "prof": "Creative Direction",
@@ -112,10 +116,6 @@
             {
                 "prof": "Art Director",
                 "name": "Ricardo Mirroni"
-            },
-            {
-                "prof": "Graphic Design",
-                "name": "Layout @Antitelico"
             }
         ]
     }
