@@ -10,6 +10,7 @@
         "collage": "/data/voilecol.png",
         "about": "The new Voile Blanche collection tells of an endless journey to discover details and materials, for sneakers that become a lesson in style.",
         "preAbout": "The New collection S - J 2022",
+        "mostPopular": true,
         "team": [
             {
                 "prof": "Creative Direction",
@@ -40,6 +41,7 @@
         "collage": "/data/endlesscol.png",
         "about": "The new ENDLESS (The 1975) collection of an endless time journey to firefall stylizer and materials, for sneakers that become a lesson in mine.",
         "preAbout": "The New collection F - S 2021",
+        "mostPopular": false,
         "team": [
             {
                 "prof": "Creative Direction",
@@ -74,6 +76,7 @@
         "collage": "/data/lowlycol.png",
         "about": "The new LOWLY (Love lie) (The 1975) tells of an endless journey to discover details materials, for mine that become a less in style.",
         "preAbout": "The New collection F - S 2021",
+        "mostPopular": false,
         "team": [
             {
                 "prof": "Creative Direction",
@@ -104,6 +107,7 @@
         "collage": "/data/voilecol.png",
         "about": "YOURSELF data of 2022 collection tells of an endless journey to discover details and materials, for sneakers that become a lesson in style.",
         "preAbout": "The New collection F - S 2022",
+        "mostPopular": false,
         "team": [
             {
                 "prof": "Creative Direction",
