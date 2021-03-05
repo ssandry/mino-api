@@ -1,6 +1,6 @@
 <img src = "./md/22222222222222222.gif" width = "100%" />
 
-# API for the MINO repository.
+# REST API for the MINO repository.
 
 **Deployed thanks to [Heroku].** <br>
 **Live preview [API].**
