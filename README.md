@@ -15,7 +15,7 @@ $cd mino-api
 ## Start script
 
 ```sh
-$python3 app.py
+$python3 __app.py
 ```
 
 ### Useful documentation
